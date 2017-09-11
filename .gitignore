@@ -1,0 +1,5 @@
+*.aux
+*.out
+the_tsmean_book.pdf
+*.toc
+*.log
